@@ -93,12 +93,15 @@
         text-align: center;
         justify-content: center;
         height: 100%;
-        /* font-size: 0.5rem; */
     }
 
-    /* .i-name{
-        font-size: 340%;
-    } */
+    .i-name{
+        font-size: 280%;
+    }
+
+    .i-title-item{
+        font-size: 180%;
+    }
 
     .i-desc{
         display: none;

@@ -89,19 +89,9 @@
         height: 30vh;
     }
 
-    .a-card.bg{
+    .a-card.bg, .a-award{
         display: none;
     }
 
-    .i-left-wrapper{
-        padding: 10px;
-        align-items: center;
-        text-align: center;
-        justify-content: center;
-        height: 100%;
-    }
-
-    .i-desc{
-        display: none;
-    }
+    
 }
